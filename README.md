@@ -1,6 +1,6 @@
 # NLP-Based-Symptom-Classifier
 End-to-end NLP pipeline for medical symptom classification using text preprocessing, TF-IDF feature extraction, and Linear SVM.
-# NLP-Based Symptom Classifier
+
 
 ## Overview
 This project focuses on classifying medical symptom descriptions using Natural Language Processing (NLP) and Machine Learning techniques. The goal is to take raw text input and predict the most relevant symptom category.
